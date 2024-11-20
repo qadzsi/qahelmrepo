@@ -9,7 +9,7 @@ entries:
     name: logging-operator
     type: application
     urls:
-    - https://github.com/qadzsi/qahelmrepo.git/logging-operator-0.1.6.tgz
+    - https://qadzsi.github.io/qahelmrepo/logging-operator-0.1.6.tgz
     version: 0.1.6
   nginx:
   - annotations:
@@ -42,7 +42,7 @@ entries:
     - https://github.com/bitnami/containers/tree/main/bitnami/nginx
     - https://www.nginx.org
     urls:
-    - https://github.com/qadzsi/qahelmrepo.git/nginx-14.0.0.tgz
+    - https://qadzsi.github.io/qahelmrepo/nginx-14.0.0.tgz
     version: 14.0.0
   nutss-management-backend-worker:
   - apiVersion: v2
@@ -53,7 +53,7 @@ entries:
     name: nutss-management-backend-worker
     type: application
     urls:
-    - https://github.com/qadzsi/qahelmrepo.git/nutss-management-backend-worker-0.43.1-dev-18434972.tgz
+    - https://qadzsi.github.io/qahelmrepo/nutss-management-backend-worker-0.43.1-dev-18434972.tgz
     version: 0.43.1-dev-18434972
   ping:
   - apiVersion: v2
@@ -63,7 +63,7 @@ entries:
     digest: 453bb829aabd3c30bb4a3e743b349bb78179293a63fa161a058ccf1706110e61
     name: ping
     urls:
-    - https://github.com/qadzsi/qahelmrepo.git/ping-0.3.0.tgz
+    - https://qadzsi.github.io/qahelmrepo/ping-0.3.0.tgz
     version: 0.3.0
   pong:
   - apiVersion: v1
@@ -73,6 +73,6 @@ entries:
     digest: a3d3940d277cc47b15aaf00b6acf063505000c6859528551e7a83d2735915242
     name: pong
     urls:
-    - https://github.com/qadzsi/qahelmrepo.git/pong-0.2.0.tgz
+    - https://qadzsi.github.io/qahelmrepo/pong-0.2.0.tgz
     version: 0.2.0
 generated: "2024-11-20T10:42:40.925823562Z"
